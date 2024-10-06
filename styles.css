@@ -1,0 +1,27 @@
+#element1 {
+    color: black;
+    font-size: 24px;
+  }
+  
+  #element2 {
+    background-color: lightgray;
+    padding: 10px;
+  }
+  
+  #element3 {
+    color: black;
+    font-weight: normal;
+  }
+  #heading
+  {
+    font-family: Arial, sans-serif; 
+     font-size: 32px;  
+     text-align: center;  
+     color: #333;
+  }
+  #element4
+   {
+    color: darkmagenta;
+    font-size: 18px;
+    margin-top: 20px;
+  }
